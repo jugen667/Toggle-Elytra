@@ -1,7 +1,7 @@
 # Toggle-Elytra
 ## A Free Resource by jugen667
 Toggle-elytra is a Spigot plugin that allow to disable the gliding during flight in Elytra. It makes the player drop by pressing sneak.
-More informations on [the Spigot page](https://www.spigotmc.org/resources/toggle-elytra.117600/)
+More informations and the .jar file available on [the Spigot page](https://www.spigotmc.org/resources/toggle-elytra.117600/)
 
 ## Information
 Developped by jugen667
