@@ -1,0 +1,10 @@
+name: elytratoggle
+main: com.juju80gen.elytratoggle.Plugin
+author: juju80gen
+version: 1.0
+api-version: 1.20.6
+description: Disable Elytra while flying, inspired by SimpleElytraControl by exwundee (https://github.com/exwundee/SimpleElytraControl/)
+commands:
+  helptoggle :
+    description: help and info about the plugin
+    permission: help.use
