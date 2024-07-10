@@ -8,7 +8,7 @@ Developped by jugen667
 
 First release on Jun 25, 2024 under the GNU General Public License v3.0.
 
-Releases will only be marked on Spigot, sources code will be updated according.
+Release builds will only be published on Spigot, sources code will be updated accordingly.
 
 It was heavily inspired by the [SimpleElytraController by exwundee](https://github.com/exwundee/SimpleElytraControl) 
 
